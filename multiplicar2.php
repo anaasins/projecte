@@ -9,7 +9,7 @@ while ($numero <= 10) {
   //Lo sacamos por pantalla
   echo "2 x $numero = $resultado <br>";
 
-  //Especificamos el incremento de numero
+  //Especificamos el incremento
   $numero++;
 }
  ?>
